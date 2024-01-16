@@ -1,5 +1,5 @@
 # ultimate_budget_spreadsheet
-I created the ultimate budget insight dashboard using Google Sheets. This makes it easy for anyone to adopt for free! 
+I created the ultimate budget insight dashboard using Google Sheets. This makes it easy for anyone with almost any level of technical skills to adopt for free! 
 
 The template can be found [here](https://docs.google.com/spreadsheets/d/1xKW-EdDXVN5nontaMy65wKUhzzwoup9d2lv-R4R6o7s/edit#gid=1620446718). Make a copy onto your own Google Drive!
 
